@@ -16,6 +16,6 @@
     "@cyco130/eslint-config": "^3.9.1",
     "eslint": "^8.57.0",
     "publint": "^0.2.8",
-    "typescript": "^5.4.5"
+    "typescript": "^5.5.2"
   }
 }
